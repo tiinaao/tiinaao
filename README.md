@@ -1,5 +1,5 @@
 <div align="center"> ╔══════════════════ ⋆★⋆ ══════════════════╗  </div>
-<h3 align="center"> <img src="https://cdn3.emoji.gg/emojis/1472-white-sparkle.gif" width="2%"> Hi hi hello!! <img src="https://cdn3.emoji.gg/emojis/1472-white-sparkle.gif" width="2%"> </h3>
+<h3 align="center"> <img src="https://cdn3.emoji.gg/emojis/1472-white-sparkle.gif" width="2%"> Hello!! <img src="https://cdn3.emoji.gg/emojis/1472-white-sparkle.gif" width="2%"> </h3>
 
 <div align="center">
   <div>

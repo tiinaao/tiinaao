@@ -1,17 +1,20 @@
-<div align="center"> ╔══════════════════ ⋆★⋆ ══════════════════╗  </div>
-<h3 align="center"> <img src="https://cdn3.emoji.gg/emojis/1472-white-sparkle.gif" width="2%"> Hello!! <img src="https://cdn3.emoji.gg/emojis/1472-white-sparkle.gif" width="2%"> </h3>
+<table>
+<tr>
+<td valign="top">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=8739bb&vCenter=true&width=460&lines=helo+helo!;i'm+tinao+%3A%5D;always+under+construction" alt="typing animation">
 
-<div align="center">
-  <div>
-     <kbd>
-       <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; pl/eng | discord: tiinaao  &nbsp; &nbsp;  &nbsp; &nbsp;
-       <br> <br>
-     </kbd>
-  <div>
-    <br>
-</div>
-<img src="https://file.garden/aGE2qANLWActgIGK/f2ef7e72a9a535475027132479427da6-ezgif.com-effects.gif" width="40%">
-<br>
-<br>   
-<div align="center"> ╚══════════════════ ⋆★⋆ ══════════════════╝ </div>
+```text
+┌─[ info.txt ]────────────────────────────────[ _ ][ x ]─┐
+│                                                        │
+│  > pl/eng                                              │
+│  > discord: tiinaao                                    │
+│                                                        │
+└────────────────────────────────────────────────────────┘
+```
+
+</td>
+<td valign="middle" align="center">
+<img src="https://file.garden/aGE2qANLWActgIGK/f2ef7e72a9a535475027132479427da6-ezgif.com-effects.gif" width="220" alt="gif">
+</td>
+</tr>
+</table>
